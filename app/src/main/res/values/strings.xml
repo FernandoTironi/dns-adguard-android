@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">DNS AdGuard</string>
+    <string name="app_brand">AdGuard DNS</string>
+    <string name="app_subtitle">Bloqueio de anúncios e rastreadores no nível do sistema.</string>
+
+    <string name="status_active">ATIVO</string>
+    <string name="status_inactive">INATIVO</string>
+    <string name="status_permission">PENDENTE</string>
+
+    <string name="status_title_active">Protegido</string>
+    <string name="status_title_inactive">Desativado</string>
+    <string name="status_title_permission">Sem permissão</string>
+
+    <string name="status_description_active">Suas consultas DNS estão sendo filtradas pelo AdGuard com criptografia TLS.</string>
+    <string name="status_description_inactive">Suas consultas DNS estão expostas. Ative a proteção para bloquear anúncios e rastreadores.</string>
+    <string name="status_description_permission">Conceda a permissão WRITE_SECURE_SETTINGS para controlar o DNS privado.</string>
+
+    <string name="section_connection">Conexão</string>
+    <string name="label_server">Servidor</string>
+    <string name="label_protocol">Protocolo</string>
+    <string name="label_mode">Modo</string>
+
+    <string name="value_protocol">DNS sobre TLS</string>
+    <string name="value_mode_private">Privado · AdGuard</string>
+    <string name="value_mode_auto">Automático do sistema</string>
+    <string name="value_mode_blocked">Indisponível</string>
+    <string name="value_server_empty">—</string>
+
+    <string name="permission_title">Conceda a permissão via ADB</string>
+    <string name="permission_intro">Este app altera o DNS privado do Android, o que exige uma permissão de sistema. Sem root — basta o ADB.</string>
+    <string name="permission_command">adb shell pm grant com.fernandot.dnsadguard android.permission.WRITE_SECURE_SETTINGS</string>
+    <string name="permission_footnote">Após executar, reabra o app.</string>
+</resources>

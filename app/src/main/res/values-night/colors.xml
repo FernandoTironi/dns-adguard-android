@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_500">#10B981</color>
+    <color name="brand_600">#34D399</color>
+    <color name="brand_700">#6EE7B7</color>
+    <color name="brand_400">#34D399</color>
+    <color name="brand_glow">#3310B981</color>
+    <color name="brand_soft">#2610B981</color>
+
+    <color name="amber_500">#F59E0B</color>
+    <color name="amber_600">#FBBF24</color>
+    <color name="amber_glow">#33F59E0B</color>
+    <color name="amber_soft">#26F59E0B</color>
+
+    <color name="slate_500">#94A3B8</color>
+    <color name="slate_400">#64748B</color>
+    <color name="slate_glow">#1F94A3B8</color>
+    <color name="slate_soft">#1F94A3B8</color>
+
+    <color name="background">#070A0F</color>
+    <color name="background_top">#0B1117</color>
+    <color name="surface">#0F1620</color>
+    <color name="surface_muted">#131B26</color>
+    <color name="stroke_subtle">#1FFFFFFF</color>
+    <color name="stroke_strong">#33FFFFFF</color>
+
+    <color name="text_primary">#F1F5F9</color>
+    <color name="text_secondary">#94A3B8</color>
+    <color name="text_tertiary">#64748B</color>
+    <color name="text_inverse">#0F172A</color>
+
+    <color name="code_bg">#020617</color>
+    <color name="code_fg">#6EE7B7</color>
+</resources>
